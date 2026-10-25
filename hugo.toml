@@ -1,0 +1,21 @@
+baseURL = "https://teakettle.de/"
+locale = "en"
+title = "teakettle"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+description = "Information, rules and docs for the chat.teakettle.de Fluxer instance"
+defaultTheme = "auto"
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowShareButtons = false
+
+[params.homeInfoParams]
+Title = "teakettle"
+Content = "Home of [chat.teakettle.de](https://chat.teakettle.de), a Fluxer chat instance."
+
+[[menu.main]]
+name = "Chat"
+url = "https://chat.teakettle.de"
+weight = 100
