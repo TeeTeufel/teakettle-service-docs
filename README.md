@@ -1,2 +1,3 @@
-# fluxer-teakettle
-chat.teakettle.de Fluxer instance information, rules and docs
+# Teakettle Service Documentations
+Here lies the documentation, information, legal and regulatory stuff for all the services that are hosted.
+

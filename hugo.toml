@@ -1,0 +1,21 @@
+baseURL = "https://teakettle.de/"
+locale = "en"
+title = "teakettle"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+description = "Documentation, information, legal and regulatory stuff"
+defaultTheme = "auto"
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowShareButtons = false
+
+[params.homeInfoParams]
+Title = "teakettle"
+Content = "Here lies the documentation, information, legal and regulatory stuff for all the services that are hosted."
+
+[[menu.main]]
+name = "Chat"
+url = "https://chat.teakettle.de"
+weight = 100
